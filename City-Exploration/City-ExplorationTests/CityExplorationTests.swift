@@ -1,5 +1,5 @@
 //
-//  City_ExplorationTests.swift
+//  CityExplorationTests.swift
 //  City-ExplorationTests
 //
 //  Created by Rodrigo Torres on 14/09/2025.
@@ -8,7 +8,7 @@
 import XCTest
 @testable import City_Exploration
 
-final class City_ExplorationTests: XCTestCase {
+final class CityExplorationTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

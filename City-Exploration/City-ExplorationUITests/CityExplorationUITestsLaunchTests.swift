@@ -1,5 +1,5 @@
 //
-//  City_ExplorationUITestsLaunchTests.swift
+//  CityExplorationUITestsLaunchTests.swift
 //  City-ExplorationUITests
 //
 //  Created by Rodrigo Torres on 14/09/2025.
@@ -7,7 +7,7 @@
 
 import XCTest
 
-final class City_ExplorationUITestsLaunchTests: XCTestCase {
+final class CityExplorationUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

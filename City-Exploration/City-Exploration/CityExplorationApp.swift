@@ -1,5 +1,5 @@
 //
-//  City_ExplorationApp.swift
+//  CityExplorationApp.swift
 //  City-Exploration
 //
 //  Created by Rodrigo Torres on 14/09/2025.
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct City_ExplorationApp: App {
+struct CityExplorationApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
