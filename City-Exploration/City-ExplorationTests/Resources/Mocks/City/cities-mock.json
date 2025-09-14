@@ -1,0 +1,362 @@
+[
+  {
+    "country": "US",
+    "name": "Alabama",
+    "_id": 1,
+    "coord": {
+      "lon": -86.79113,
+      "lat": 32.377716
+    }
+  },
+  {
+    "country": "US",
+    "name": "Albuquerque",
+    "_id": 2,
+    "coord": {
+      "lon": -106.650422,
+      "lat": 35.084386
+    }
+  },
+  {
+    "country": "US",
+    "name": "Anaheim",
+    "_id": 3,
+    "coord": {
+      "lon": -117.914504,
+      "lat": 33.835293
+    }
+  },
+  {
+    "country": "US",
+    "name": "Arizona",
+    "_id": 4,
+    "coord": {
+      "lon": -111.431221,
+      "lat": 33.729759
+    }
+  },
+  {
+    "country": "AU",
+    "name": "Sydney",
+    "_id": 5,
+    "coord": {
+      "lon": 151.207321,
+      "lat": -33.867851
+    }
+  },
+  {
+    "country": "UA",
+    "name": "Hurzuf",
+    "_id": 707860,
+    "coord": {
+      "lon": 34.283333,
+      "lat": 44.549999
+    }
+  },
+  {
+    "country": "US",
+    "name": "New York",
+    "_id": 7,
+    "coord": {
+      "lon": -74.005941,
+      "lat": 40.712784
+    }
+  },
+  {
+    "country": "US",
+    "name": "Los Angeles",
+    "_id": 8,
+    "coord": {
+      "lon": -118.243685,
+      "lat": 34.052234
+    }
+  },
+  {
+    "country": "US",
+    "name": "Chicago",
+    "_id": 9,
+    "coord": {
+      "lon": -87.623177,
+      "lat": 41.881832
+    }
+  },
+  {
+    "country": "US",
+    "name": "Denver",
+    "_id": 10,
+    "coord": {
+      "lon": -104.990251,
+      "lat": 39.739236
+    }
+  },
+  {
+    "country": "CA",
+    "name": "Toronto",
+    "_id": 11,
+    "coord": {
+      "lon": -79.383184,
+      "lat": 43.653226
+    }
+  },
+  {
+    "country": "CA",
+    "name": "Vancouver",
+    "_id": 12,
+    "coord": {
+      "lon": -123.120738,
+      "lat": 49.282729
+    }
+  },
+  {
+    "country": "GB",
+    "name": "London",
+    "_id": 13,
+    "coord": {
+      "lon": -0.127758,
+      "lat": 51.507351
+    }
+  },
+  {
+    "country": "GB",
+    "name": "Manchester",
+    "_id": 14,
+    "coord": {
+      "lon": -2.244644,
+      "lat": 53.480759
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Berlin",
+    "_id": 15,
+    "coord": {
+      "lon": 13.404954,
+      "lat": 52.520007
+    }
+  },
+  {
+    "country": "DE",
+    "name": "Munich",
+    "_id": 16,
+    "coord": {
+      "lon": 11.581981,
+      "lat": 48.135125
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Paris",
+    "_id": 17,
+    "coord": {
+      "lon": 2.349014,
+      "lat": 48.864716
+    }
+  },
+  {
+    "country": "FR",
+    "name": "Lyon",
+    "_id": 18,
+    "coord": {
+      "lon": 4.835659,
+      "lat": 45.764043
+    }
+  },
+  {
+    "country": "ES",
+    "name": "Madrid",
+    "_id": 19,
+    "coord": {
+      "lon": -3.70379,
+      "lat": 40.416775
+    }
+  },
+  {
+    "country": "ES",
+    "name": "Barcelona",
+    "_id": 20,
+    "coord": {
+      "lon": 2.173403,
+      "lat": 41.385064
+    }
+  },
+  {
+    "country": "IT",
+    "name": "Rome",
+    "_id": 21,
+    "coord": {
+      "lon": 12.496366,
+      "lat": 41.902782
+    }
+  },
+  {
+    "country": "IT",
+    "name": "Milan",
+    "_id": 22,
+    "coord": {
+      "lon": 9.189982,
+      "lat": 45.464204
+    }
+  },
+  {
+    "country": "JP",
+    "name": "Tokyo",
+    "_id": 23,
+    "coord": {
+      "lon": 139.691706,
+      "lat": 35.689487
+    }
+  },
+  {
+    "country": "JP",
+    "name": "Osaka",
+    "_id": 24,
+    "coord": {
+      "lon": 135.502165,
+      "lat": 34.693738
+    }
+  },
+  {
+    "country": "AU",
+    "name": "Melbourne",
+    "_id": 25,
+    "coord": {
+      "lon": 144.96328,
+      "lat": -37.813628
+    }
+  },
+  {
+    "country": "AU",
+    "name": "Brisbane",
+    "_id": 26,
+    "coord": {
+      "lon": 153.021072,
+      "lat": -27.470125
+    }
+  },
+  {
+    "country": "BR",
+    "name": "São Paulo",
+    "_id": 27,
+    "coord": {
+      "lon": -46.633309,
+      "lat": -23.55052
+    }
+  },
+  {
+    "country": "BR",
+    "name": "Rio de Janeiro",
+    "_id": 28,
+    "coord": {
+      "lon": -43.196388,
+      "lat": -22.906847
+    }
+  },
+  {
+    "country": "MX",
+    "name": "Mexico City",
+    "_id": 29,
+    "coord": {
+      "lon": -99.133208,
+      "lat": 19.432608
+    }
+  },
+  {
+    "country": "MX",
+    "name": "Guadalajara",
+    "_id": 30,
+    "coord": {
+      "lon": -103.349609,
+      "lat": 20.659699
+    }
+  },
+  {
+    "country": "US",
+    "name": "Miami",
+    "_id": 31,
+    "coord": {
+      "lon": -80.19179,
+      "lat": 25.761680
+    }
+  },
+  {
+    "country": "US",
+    "name": "Seattle",
+    "_id": 32,
+    "coord": {
+      "lon": -122.335167,
+      "lat": 47.608013
+    }
+  },
+  {
+    "country": "US",
+    "name": "Atlanta",
+    "_id": 33,
+    "coord": {
+      "lon": -84.388,
+      "lat": 33.749
+    }
+  },
+  {
+    "country": "RU",
+    "name": "Moscow",
+    "_id": 34,
+    "coord": {
+      "lon": 37.617635,
+      "lat": 55.755826
+    }
+  },
+  {
+    "country": "IN",
+    "name": "Mumbai",
+    "_id": 35,
+    "coord": {
+      "lon": 72.877656,
+      "lat": 19.075984
+    }
+  },
+  {
+    "country": "CN",
+    "name": "Beijing",
+    "_id": 36,
+    "coord": {
+      "lon": 116.407395,
+      "lat": 39.904211
+    }
+  },
+  {
+    "country": "KR",
+    "name": "Seoul",
+    "_id": 37,
+    "coord": {
+      "lon": 126.977969,
+      "lat": 37.566535
+    }
+  },
+  {
+    "country": "TH",
+    "name": "Bangkok",
+    "_id": 38,
+    "coord": {
+      "lon": 100.501765,
+      "lat": 13.756331
+    }
+  },
+  {
+    "country": "SG",
+    "name": "Singapore",
+    "_id": 39,
+    "coord": {
+      "lon": 103.819836,
+      "lat": 1.352083
+    }
+  },
+  {
+    "country": "NL",
+    "name": "Amsterdam",
+    "_id": 40,
+    "coord": {
+      "lon": 4.904139,
+      "lat": 52.367573
+    }
+  }
+]

@@ -29,6 +29,17 @@
 		88474B7D2E77351F0055A8E0 /* City-ExplorationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "City-ExplorationUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		882340C32E7744FC0004DAF2 /* Exceptions for "City-ExplorationTests" folder in "City-Exploration" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				"Resources/Mocks/City/cities-mock-empty.json",
+				"Resources/Mocks/City/cities-mock.json",
+			);
+			target = 88474B652E77351E0055A8E0 /* City-Exploration */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		88474B682E77351E0055A8E0 /* City-Exploration */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
@@ -37,6 +48,9 @@
 		};
 		88474B762E77351F0055A8E0 /* City-ExplorationTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				882340C32E7744FC0004DAF2 /* Exceptions for "City-ExplorationTests" folder in "City-Exploration" target */,
+			);
 			path = "City-ExplorationTests";
 			sourceTree = "<group>";
 		};
